@@ -78,7 +78,7 @@
   position: absolute;
   bottom: 0;
   left: 0;
-  background-color: rgb(255,64,129);
+  background-color: rgb(135, 151, 178);
   left: 15%;
 }
 
@@ -161,6 +161,20 @@ img.article-image {
 .portfolio-contact form {
   max-width: 550px;
   margin: auto;
+}
+
+.mdl-button--colored {
+  background-color: rgb(135, 151, 178);
+}
+
+.project-link  {
+  text-decoration: none;
+  color: #618199 !important;
+  background-color: rgba(0,0,0,0);
+}
+
+.mdl-card__media {
+  background-color: rgb(135, 151, 178);
 }
 
 footer {
