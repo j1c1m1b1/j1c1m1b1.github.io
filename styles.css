@@ -288,6 +288,9 @@ html, body {
 .sdp-pic {
   width: 40%;
   margin: 0 auto;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  min-width: 200px;
 }
 
 .sdp-pic img {
@@ -298,6 +301,8 @@ html, body {
 .eci-pic {
   width: 80%;
   margin: 0 auto;
+  margin-top: 80px;
+  margin-bottom: 80px;
 }
 
 .eci-pic img {
@@ -322,6 +327,7 @@ html, body {
 
 .disclaimer {
   width: 100%;
+  padding: 16px;
   display: inline-block;
   text-align: center;
   vertical-align: middle;
