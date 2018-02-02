@@ -7,16 +7,20 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 		<title>Julio Mendoza</title>
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en">
-		<link href="https://fonts.googleapis.com/css?family=Roboto+Slab|Source+Code+Pro|Material+Icons" rel="stylesheet">		
+		<link href="https://fonts.googleapis.com/css?family=Roboto+Slab|Source+Code+Pro|Material+Icons" rel="stylesheet">
 		<link href="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.css" rel="stylesheet">
 		<link rel="stylesheet" href="styles.css" />
 	</head>
 	<body>
 		<div class="background-switcher">
 			<div class="main-title">
-				<p class="inline-block">
-					<span class="reserved-word">val </span><span class="code">title : String? = </span><span class="string">"Hello World, I am Julio Mendoza"</span>
-				</p>
+				<div class="main-title-middle">
+					<div class="main-title-inner">
+						<p>
+							<span class="reserved-word">val </span><span class="code">title : String? = </span><span class="string">"Hello World, I am Julio Mendoza"</span>
+						</p>
+					</div>
+				</div>
 			</div>
 			<div data-aos="fade-up" class="about-me">
 				<h3>
@@ -24,45 +28,51 @@
 				README.md
 				</h3>
 				<article class="about-me-article">
-					<h1>About Me</h1>
-					<p>I have worked in Software Development for the past 7 years. I currently work at Globant, until recently I was the backup lead developer of the Shop Disney Parks application project. My roles were to help manage a team of Android developers and make relevant decisions about the project architecture and management. I was involved in developing multiple features, maintenance and bug fixing for multiple versions of the app.</p>
-					<p>Previously, I worked as an Android Developer for Prodigious Brand Logistics, in a multidisciplinary support team of engineers, where I had the opportunity to develop custom Android applications for some of the clients of the Publicis Groupe. I also worked as an Android Developer in Imaginamos, where I made valuable applications for multiple national and international clients of the company.</p>
-					<div class="profile-pic">
+					<h1 data-aos="fade-up">About Me</h1>
+					<p data-aos="fade-up">I have worked in Software Development for the past 7 years. I currently work at <a href="https://www.globant.com/">Globant</a>. Until recently, I was the backup lead developer of the Shop Disney Parks application project. My roles were to help manage a team of Android developers and make relevant decisions about the project architecture and management. I was involved in developing multiple features, maintenance and bug fixing for different versions of the app.</p>
+
+					<br/><br/>
+					<p data-aos="fade-up">Previously, I worked as an Android Developer for <a href="http://www.prodigious.com/">Prodigious Brand Logistics</a>, in a multidisciplinary support team of engineers, where I had the opportunity to develop custom Android applications for some of the clients of the Publicis Groupe. I also worked as an Android Developer in <a href="https://imaginamos.com/">Imaginamos</a>, where I made valuable applications for multiple national and international clients of the company.</p>
+					<div data-aos="fade-up" class="profile-pic">
 						<img src="images/profile.png"/>
 					</div>
 				</article>
 				
 			</div>
-			<div data-aos="fade-up" class="section">
-				<h3 class="section-title">Projects</h3>
-				<div data-aos="fade-right" class="sdp">
-					<h4 class="subsection-title">Shop Disney Parks</h4>
-					<table>
-						<tr>
-							<td>
-								<div class="sdp-pic">
-									<img src="images/sdp.png">
-								</div>
-							</td>
-							<td>
-								<ul>
-									<li data-aos="fade-up">Performed as a backup technical lead, managing an Android development team.</li>
-									<li data-aos="fade-up">Made decisions about architecture and
-									team management to comply in the most efficient way with the client's goals and timelines.</li>
-									<li data-aos="fade-up">Solved multiple issues and implemented new features including analytics integration, custom views and listeners; for
-									multiple versions of the app.</li>
-									<li data-aos="fade-up">Added code quality by taking part of code reviewing policy.</li>
-								</ul>
-							</td>
-						</tr>
-					</table>
+
+			<div data-aos="fade-up" class="apps">
+				<h1 data-aos="fade-up">Projects<h1>
+				<h2 class="apps-title">Shop Disney Parks</h2>
+				<span class="apps-button-container">
+					<span class="apps-button-install" onclick="window.open('https://play.google.com/store/apps/details?id=com.disney.shopdisneyparks_goo')">
+						<button>Install</button>
+					</span>
+				</span>
+				
+				<div data-aos="fade-up" class="sdp-pic">
+					<img src="images/sdp.png">
 				</div>
+
+				<h3 data-aos="fade-up">Tasks and Responsibilities:</h3>
+				<br/>
+
+				<p data-aos="fade-up">Performed as a backup technical lead, managing an Android development team. </p>
+
+				<p data-aos="fade-up">Made decisions about architecture and
+					team management to comply in the most efficient way with the client's goals and timelines.</p>
+
+				<p data-aos="fade-up">Solved multiple issues and implemented new features including analytics integration, custom views and listeners; for
+					multiple versions of the app.</p>
+
+				<p data-aos="fade-up">Added code quality by taking part of code reviewing policy.</p>
+				
+				
 			</div>
+			<div class="footer"></div>
 		</div>
 		<script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
 		<script>
 			AOS.init();
 		</script>
-		
 	</body>
 </html>
