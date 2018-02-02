@@ -117,7 +117,7 @@ html, body {
 }
 
 .about-me-article p {
-  font-size: 1.2em;
+  font-size: 1.1em;
   margin-top: 0;
   margin-bottom: 16px;
 }
@@ -134,9 +134,11 @@ html, body {
 }
 
 .profile-pic {
+  min-width: 160px;
   width: 12vw;
   margin: 0 auto;
   margin-top: 64px;
+  margin-bottom: 64px;
   text-align: center;
 }
 
@@ -149,7 +151,6 @@ html, body {
   padding: 45px;
   margin: 0 auto;
   margin-top: 80px;
-  color: #E6E8ED;
   font-family: 'Roboto', sans-serif;
   width: 80%;
   font-weight: 300;
@@ -189,19 +190,33 @@ html, body {
   box-sizing: border-box;
 }
 
+.sdp {
+  color: #E6E8ED;
+}
+
+.eci {
+  color: #f2f9f5;
+}
+
 .apps h1 {
-  font-size: 6vh;
+  color: #ffffff;
+  font-size: 2em;
   text-align: center;
   margin-bottom: 80px;
 }
 
 .apps h2 {
-  font-size: 4vh;
+  font-size: 1.5em;
   margin: 25px 30px 10px 0;
   font-weight: 300;
   line-height: 35px;
   white-space: normal;
   box-sizing: border-box;
+}
+
+.apps li{
+  font-size: 1.1em;
+  padding-bottom: 16px;
 }
 
 .apps-button-conatiner {
@@ -266,8 +281,12 @@ html, body {
   text-align: inherit;
 }
 
+.apps-project-divider {
+  min-height: 24vh;
+}
+
 .sdp-pic {
-  width: 30%;
+  width: 40%;
   margin: 0 auto;
 }
 
@@ -276,6 +295,34 @@ html, body {
   width: 100%;
 }
 
+.eci-pic {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.eci-pic img {
+  display: block;
+  width: 100%;
+}
+
+.linkedin {
+  display: inline-block;
+  cursor: pointer;
+  width: 5%;
+  min-width: 20px;
+}
+
 .footer {
-  min-height: 25vh;
+  color: #ffffff;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 0.5em;
+  line-height: 24vh;
+  min-height: 24vh;
+}
+
+.disclaimer {
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
 }
