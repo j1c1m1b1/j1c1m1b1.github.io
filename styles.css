@@ -100,8 +100,59 @@ html, body {
 }
 
 .about-me {
+  background-color: #FFFFFF;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
   margin: 0 auto;
-  width: 50vw;
+  border-radius: 3px;
+  box-shadow: 5px 5px 5px black;
+  word-wrap: break-word;
+  width: 80%
+}
+
+.about-me-article {
+  padding: 45px;
+  word-wrap: break-word;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  line-height: 1.5;
+  box-sizing: border-box;
+  color: #24292e;
+}
+
+.about-me-article h1 {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  padding-bottom: 0.3em;
+  font-size: 2em;
+  border-bottom: 1px solid #eaecef;
+  margin-bottom: 16px;
+  font-weight: 600;
+  line-height: 1.25;
+  margin: 0.67em 0;
+  box-sizing: border-box;
+}
+
+.about-me-article p {
+  margin-top: 0;
+  margin-bottom: 16px;
+  display: block;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+}
+
+.about-me h3 {
+  display: block;
+  padding: 9px 10px 10px;
+  margin: 0;
+  font-size: 14px;
+  line-height: 17px;
+  background-color: #f6f8fa;
+  border: 1px solid rgba(27,31,35,0.15);
+  border-bottom: 0;
+  border-radius: 3px 3px 0 0;
 }
 
 .profile-pic {
