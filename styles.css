@@ -317,6 +317,30 @@ html, body {
   min-width: 20px;
 }
 
+.udacity {
+  display: inline-block;
+  cursor: pointer;
+  width: 4vw;
+  min-width: 20px;
+}
+
+.udacity img{
+  display: block;
+  width: 100%;
+}
+
+.oca {
+  display: inline-block;
+  cursor: pointer;
+  width: 8vw;
+  min-width: 20px;
+}
+
+.oca img{
+  display: block;
+  width: 100%;
+}
+
 .footer {
   color: #ffffff;
   font-family: 'Source Code Pro', monospace;
