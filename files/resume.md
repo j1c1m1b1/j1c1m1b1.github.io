@@ -1,9 +1,5 @@
 
 # About Me
-> Düsseldorf, Germany
-> (+49) 0173 4691204
-> [j1c1m1b1@gmail.com](mailto:j1c1m1b1@gmail.com)
-
 I have worked in Software Development for the past 8 years. I currently work at [troido](http://www.troido.de/) as an Android Developer. I create and maintain multiple propietary and client's Android applications using a multidisciplinary and adaptative approach to meet the requirements amongst the fragmentation of business logics and specific objectives of these different softwares.
 
 
@@ -98,3 +94,7 @@ As Android developer proposed the new architecture to re-create the delivery app
 *March 2015*
 <br/><img src="images/andes.png" width="60">
 
+#### Contact
+> Düsseldorf, Germany
+> <br/>[(+49) 0173 4691204](tel:4901734691204)
+> <br/>[j1c1m1b1@gmail.com](mailto:j1c1m1b1@gmail.com)
