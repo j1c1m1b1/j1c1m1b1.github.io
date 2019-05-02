@@ -1,6 +1,6 @@
 
 # About Me
-I have worked in Software Development for the past 8 years. I currently work at [troido](http://www.troido.de/) as an Android Developer. I create and maintain multiple propietary and client's Android applications using a multidisciplinary and adaptative approach to meet the requirements amongst the fragmentation of business logics and specific objectives of these different softwares.
+I have worked in Software Development for the past 8 years. I currently work at [troido](http://www.troido.de/) as an Android Developer. I create and maintain multiple proprietary and client's Android applications using a multidisciplinary and adaptive approach to meet the requirements amongst the fragmentation of business logics and specific objectives of these different softwares.
 
 
 My previous job was at [Mercadoni](https://www.mercadoni.com.co/) as a Tech Lead/Android Developer. As an Android Developer I was responsible for the company's order delivery related software, but I also developed some features for the client's application. On the other hand as a Tech Lead I managed a talented and effective team of engineers to update the company to a more software centered approach for logistic processes, such as delivery boys assignation to client's orders and forecasting. In general I upgraded the operation of the startup by making the life of the people that makes deliveries for the company a little bit easier by optimizing logistic processes with software and killing bugs and creating new features for the app.
