@@ -1,7 +1,8 @@
 
 # About Me
-I have worked in Software Development for the past 8 years. I currently work at [troido](http://www.troido.de/) as an Android Developer. I create and maintain multiple proprietary and client's Android applications using a multidisciplinary and adaptive approach to meet the requirements amongst the fragmentation of business logics and specific objectives of these different softwares.
+I have worked in Software Development for the past 8 years. I currently work at [HSE 24](http://www.hse24.de/) as an Android Developer. One of my tasks as a member of the app team is to re-implement the company's Android application by proposing and following a standard architecture that can adapt to the Data and Test Driven Development methodology followed by the app team. At the same me and my colleagues have to balance the re-implementation with the creationg of new features and bug-fixing.
 
+I previously worked as an Android developer at [troido](http://www.troido.de/) where I worked for several clients developing and maintaining new and legacy Android applications. Whenever I wasn't working for one of troido's clients I worked in R&D for the company's Bluetooth technology.
 
 My previous job was at [Mercadoni](https://www.mercadoni.com.co/) as a Tech Lead/Android Developer. As an Android Developer I was responsible for the company's order delivery related software, but I also developed some features for the client's application. On the other hand as a Tech Lead I managed a talented and effective team of engineers to update the company to a more software centered approach for logistic processes, such as delivery boys assignation to client's orders and forecasting. In general I upgraded the operation of the startup by making the life of the people that makes deliveries for the company a little bit easier by optimizing logistic processes with software and killing bugs and creating new features for the app.
 
@@ -9,7 +10,7 @@ My previous job was at [Mercadoni](https://www.mercadoni.com.co/) as a Tech Lead
 ## Languages:
 **[Kotlin](https://kotlinlang.org/)**, **[Java](https://www.oracle.com/java/)**, JavaScript, PHP, AS3.
 ## Frameworks/Libraries:
-**[Android](https://developer.android.com/)** SDK, [Glide](https://github.com/bumptech/glide), [Retrofit](https://square.github.io/retrofit/), [OkHttp](https://square.github.io/okhttp/), [RxJava](https://github.com/ReactiveX/RxJava), [Dagger](https://google.github.io/dagger/), [Google APIs](https://developers.google.com/android/), [Firebase](https://firebase.google.com/), [Espresso](https://developer.android.com/training/testing/espresso), [AWS](https://aws.amazon.com/)
+**[Android](https://developer.android.com/)** SDK, Coroutines, [Glide](https://github.com/bumptech/glide), [Retrofit](https://square.github.io/retrofit/), [OkHttp](https://square.github.io/okhttp/), [RxJava](https://github.com/ReactiveX/RxJava), [Dagger](https://google.github.io/dagger/), [Google APIs](https://developers.google.com/android/), [Firebase](https://firebase.google.com/), [Espresso](https://developer.android.com/training/testing/espresso), [AWS](https://aws.amazon.com/)
 ## Other Technologies:
 [Git](https://git-scm.com/), Gitlab/GitHub/Bitbucket, [Bitrise](https://www.bitrise.io/), [Jenkins](https://jenkins.io/), [Crashlytics](https://firebase.google.com/docs/crashlytics/), [Sendbird](https://sendbird.com/)
 
@@ -45,8 +46,13 @@ My previous job was at [Mercadoni](https://www.mercadoni.com.co/) as a Tech Lead
 * Improved the sales of the El Alcoholimetro liquor distribution store by 20% by the orchestration and development of a simple delivery mobile application.
 
 # Work Experience
+## [HSE 24](https://www.hse24.de/) -  Android Developer
+**München, Germany | September 2019 - Present**
+* Create features and maintain the e-commerce application, using a combination of DDD and TDD.
+* Propose a new practices, cutting edge technologies Architecture for the app re-implementation.
+
 ## [troido](http://www.troido.de/) -  Android Developer
-**Düsseldorf, Germany | January 2019 - Present**
+**Düsseldorf, Germany | January 2019 - August 2019**
 * Create and maintain proprietary and company’s clients applications by using multidisciplinary and adaptive approach
 
 ## [Mercadoni](https://www.mercadoni.com.co/) - Technical Lead / Android Developer
@@ -95,6 +101,6 @@ As Android developer proposed the new architecture to re-create the delivery app
 <br/><img src="images/andes.png" width="60">
 
 #### Contact
-> Düsseldorf, Germany
-> <br/>[(+49) 0173 4691204](tel:4901734691204)
+> München, Germany
+> <br/>[(+49) 0179 4085327](tel:4901794085327)
 > <br/>[j1c1m1b1@gmail.com](mailto:j1c1m1b1@gmail.com)
