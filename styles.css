@@ -111,6 +111,10 @@ html, body {
   width: 80%
 }
 
+.about-me a {
+    color: #6f798f;
+}
+
 .about-me-article {
   padding: 45px;
   word-wrap: break-word;
@@ -132,9 +136,15 @@ html, body {
   line-height: 1.25;
   margin: 0.67em 0;
   box-sizing: border-box;
+  color: #690682;
+}
+
+.about-me-article h2 {
+    color: #690682;
 }
 
 .about-me-article p {
+  font-family: 'Source Code Pro', monospace;
   font-size: 1.1em;
   margin-top: 0;
   margin-bottom: 16px;
@@ -149,6 +159,7 @@ html, body {
   border: 1px solid rgba(27, 31, 35, 0.15);
   border-bottom: 0;
   border-radius: 3px 3px 0 0;
+  color: #690682;
 }
 
 .profile-pic {
@@ -373,4 +384,8 @@ html, body {
   display: inline-block;
   text-align: center;
   vertical-align: middle;
+}
+
+.disclaimer a{
+    color: #6f798f;
 }
