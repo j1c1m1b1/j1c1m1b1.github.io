@@ -102,8 +102,8 @@ html, body {
 }
 
 .about-me {
-  background-color: #FFFFFF;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  background-color: #263137;
+  font-family: 'Source Code Pro', monospace;
   margin: 0 auto;
   border-radius: 3px;
   box-shadow: 5px 5px 5px black;
@@ -114,13 +114,13 @@ html, body {
 .about-me-article {
   padding: 45px;
   word-wrap: break-word;
-  background-color: #fff;
+  background-color: #263137;
   border: 1px solid #ddd;
   border-bottom-right-radius: 3px;
   border-bottom-left-radius: 3px;
   line-height: 1.5;
   box-sizing: border-box;
-  color: #24292e;
+  color: #8eb6de;
 }
 
 .about-me-article h1 {
