@@ -1,26 +1,52 @@
 
 # About Me
-I have worked in Software Development for the past 8 years. I currently work at [HSE 24](http://www.hse24.de/) as an Android Developer. One of my tasks as a member of the app team is to re-implement the company's Android application by proposing and following a standard architecture that can adapt to the Data and Test Driven Development methodology followed by the app team. At the same me and my colleagues have to balance the re-implementation with the creationg of new features and bug-fixing.
+I have worked in Android Development for the past 8 years and enjoy creating performant and beautiful Android apps that 
+live in people's pockets, hands and/or walls.
+  
+I currently work at [HSE](http://www.hse.de/) where I stabilize and release new features for the company's
+ e-commerce / Live TV app.
 
-I previously worked as an Android developer at [troido](http://www.troido.de/) where I worked for several clients developing and maintaining new and legacy Android applications. Whenever I wasn't working for one of troido's clients I worked in R&D for the company's Bluetooth technology.
-
-My previous job was at [Mercadoni](https://www.mercadoni.com.co/) as a Tech Lead/Android Developer. As an Android Developer I was responsible for the company's order delivery related software, but I also developed some features for the client's application. On the other hand as a Tech Lead I managed a talented and effective team of engineers to update the company to a more software centered approach for logistic processes, such as delivery boys assignation to client's orders and forecasting. In general I upgraded the operation of the startup by making the life of the people that makes deliveries for the company a little bit easier by optimizing logistic processes with software and killing bugs and creating new features for the app.
-
-# Technical Skills
+# Tech I use
 ## Languages:
-**[Kotlin](https://kotlinlang.org/)**, **[Java](https://www.oracle.com/java/)**, JavaScript, PHP, AS3.
-## Frameworks/Libraries:
-**[Android](https://developer.android.com/)** SDK, Coroutines, [Glide](https://github.com/bumptech/glide), [Retrofit](https://square.github.io/retrofit/), [OkHttp](https://square.github.io/okhttp/), [RxJava](https://github.com/ReactiveX/RxJava), [Dagger](https://google.github.io/dagger/), [Google APIs](https://developers.google.com/android/), [Firebase](https://firebase.google.com/), [Espresso](https://developer.android.com/training/testing/espresso), [AWS](https://aws.amazon.com/)
-## Other Technologies:
-[Git](https://git-scm.com/), Gitlab/GitHub/Bitbucket, [Bitrise](https://www.bitrise.io/), [Jenkins](https://jenkins.io/), [Crashlytics](https://firebase.google.com/docs/crashlytics/), [Sendbird](https://sendbird.com/)
+I have been coding in **[Kotlin](https://kotlinlang.org/)** continuously for 2 years and several more with 
+**[Java](https://www.oracle.com/java/)** previously. 
+JavaScript, PHP, AS3 in a past life.
 
-# Project Experience
+## Architectural Patterns:
+MVVM and MVI
+
+## Android Frameworks/Libraries:
+* [KTX](https://developer.android.com/kotlin/ktx)
+* [Kotlin Flow](https://kotlinlang.org/docs/reference/coroutines/flow.html)
+* [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html)
+* [Koin](https://github.com/InsertKoinIO/koin)
+* [Firebase](https://firebase.google.com/) - Remote Config, FCM, Event Tracking, Crashlytics, A/B Testing
+* [Espresso](https://developer.android.com/training/testing/espresso) 
+* [Retrofit](https://square.github.io/retrofit/)
+* [OkHttp](https://square.github.io/okhttp/)
+* [Google Android APIs](https://developers.google.com/android/)
+* [Bitrise](https://www.bitrise.io/)
+* [Contentful](https://github.com/contentful/contentful.java)
+## Other Technologies:
+[Git](https://git-scm.com/), 
+[Jenkins](https://jenkins.io/), [Sendbird](https://sendbird.com/), 
+[Sentry](https://sentry.io/welcome/), [Kobiton](https://kobiton.com/)
+
+# My impact in some apps
+### [HSE](https://play.google.com/store/apps/details?id=de.hse24)
+**September 2019 - Present**
+* Drove the improvement of ratings of the app (from 3.8 to 4.8 in a year and a half) by providing stability to the users
+ by refactoring the old codebase
+* Improved the floor sales performance of the Android app, the app team, and the e-commerce team of HSE with new features and stability
+* Developed the award-winning "Shake" feature, increasing the app's popularity and furthering the users' engagement with the app, and the company overall
+* Generated and updated the CI/CD process of the app testing (Unit and Instrumentation), and release process with Bitrise 
+
 ### [Mercadoni](https://play.google.com/store/apps/details?id=com.shopper.app)
 **March 2018 - January 2019**
 * Maintained and created new features to the released delivery app, working with legacy code. Refactoring multiple functionalities and  eliminating the ones that were not needed.
 * Worked with Firebase and AWS to add multiple functionalities needed to shop, pay and deliver goods to Mercadoni customers.
 * Introduced Bitrise to the company in order to have a streamlined delivery of our releases.
-* Created a communications library in order to provide a proprietary controlled tool to communicate delivery people with customers.
+* Created a communication library in order to provide a proprietary controlled tool to communicate delivery people with customers.
 
 ### [Shop Disney Parks](https://play.google.com/store/apps/details?id=com.disney.shopdisneyparks_goo&hl=en)
 **July 2016**
@@ -45,7 +71,7 @@ My previous job was at [Mercadoni](https://www.mercadoni.com.co/) as a Tech Lead
 **March 2014**
 * Improved the sales of the El Alcoholimetro liquor distribution store by 20% by the orchestration and development of a simple delivery mobile application.
 
-# Work Experience
+# Where I Have Worked
 ## [HSE 24](https://www.hse24.de/) -  Android Developer
 **München, Germany | September 2019 - Present**
 * Create features and maintain the e-commerce application, using a combination of DDD and TDD.
