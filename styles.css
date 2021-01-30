@@ -312,36 +312,40 @@ html, body {
   margin-right: 48px;
 }
 
-.linkedin {
-  display: inline-block;
-  cursor: pointer;
-  width: 3vw;
+.certifications{
+  width:100%;
+  background-color: #51213A;
+  padding-bottom: 48px;
+}
+
+.certifications-content{
   margin: 0 auto;
-  min-width: 20px;
+  padding-top: 64px;
 }
 
-.udacity {
-  display: inline-block;
-  cursor: pointer;
-  width: 4vw;
-  min-width: 20px;
+.certifications-content h1{
+  font-family: 'Roboto', sans;
+  margin: 0 auto;
+  margin-bottom: 64px;
+  width: 80%;
+  color: #139F97;
+  font-size: 4em;
 }
 
-.udacity img{
-  display: block;
-  width: 100%;
+.certifications-img-container {
+  width: 90%;
+  margin: 0 auto;
 }
 
-.oca {
-  display: inline-block;
-  cursor: pointer;
-  width: 8vw;
-  min-width: 20px;
+.certifications-img-container span{
+    display:inline-block;
+    width:30%;
+    text-align:center;
+    vertical-align: middle;
 }
 
-.oca img{
-  display: block;
-  width: 100%;
+.certifications-img-container img{
+    width: 10vh;
 }
 
 .footer {
