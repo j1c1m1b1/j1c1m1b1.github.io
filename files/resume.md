@@ -211,7 +211,7 @@ MVVM enforced by multi gradle module projects in tandem with unidirectional stat
 *March 2016*
 <br/><img src="https://j1c1m1b1.github.io/images/udacity.svg" width="60">
 
-### Los Andes University, Bogotá, Colombia - [Software and Computing Engineering, B.E.](/files/diploma.pdf)
+### Los Andes University, Bogotá, Colombia - [Software and Computing Engineering, B.E.]
 
 *March 2015*
 <br/><img src="https://j1c1m1b1.github.io/images/andes.png" width="60">
