@@ -4,7 +4,7 @@
 📱 [(+49) 0179 4085327](tel:4901794085327)
 
 ## ℹ️ About Me
-I have worked in Android Development for the past 8 years and enjoy creating performant and beautiful Android apps that live in people's pockets.
+I have worked in Android Development since 2014 and enjoy creating performant and beautiful Android apps that live in people's pockets.
 
 I currently work at [HSE](http://www.hse.de/) where I lead the stabilization and release of new features for the company's e-commerce / Live TV app.
 
@@ -12,14 +12,16 @@ I currently work at [HSE](http://www.hse.de/) where I lead the stabilization and
 
 ### Languages:
 
-I have been coding in Kotlin continuously for 3 years and previously several more with Java. JavaScript, PHP, and AS3 in a past life.
+I have been coding in Kotlin continuously since 2019 and I previously wrote code with Java for several years. JavaScript, PHP, and AS3 in a past life.
 
 ### Architectural Patterns:
 
-MVVM enforced by multi-module projects in tandem with unidirectional state flows.
+MVVM is enforced by multi-module projects in tandem with unidirectional state flows.
 
 ### Android Frameworks I am proficient at:
 
+* Jetpack Compose
+* Navigation Component
 * Lifecycle
 * Paging
 * Room
@@ -125,13 +127,13 @@ MVVM enforced by multi-module projects in tandem with unidirectional state flows
 
 **Düsseldorf, Germany | January 2019 - August 2019**
 
-* Create and maintain proprietary and company clients applications by using a multidisciplinary and adaptive approach
+* Create and maintain proprietary and company client applications by using a multidisciplinary and adaptive approach
 
 ### Mercadoni - Technical Lead / Android Developer
 
 **Bogotá, Colombia | March 2018 - January 2019**
 
-* Lead a multidisciplinary team of talented developers, focused on the optimization and automation of the delivery
+* Led a multidisciplinary team of talented developers, focused on the optimization and automation of the delivery
 * systems of the company. As an Android developer proposed the new architecture to re-create the delivery app.
 * Plan and supervise the technical implementation of the projects involving the company’s delivery process.
 * Gave value to delivery employees of the Mercadoni platform by developing new features and fixing bugs in the deliveries app.
@@ -140,7 +142,7 @@ MVVM enforced by multi-module projects in tandem with unidirectional state flows
 
 **Bogotá, Colombia | July 2016 - March 2018**
 
-* Lead an Android development team to manage the Shop Disney Parks application development process.
+* Led an Android development team to manage the Shop Disney Parks application development process.
 * Developed multiple features and solutions to issues for the Shop Disney Parks application.
 
 ### [Prodigious Brand Logistics](http://prodigious.com/) - Mobile Engineer
