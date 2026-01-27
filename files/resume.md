@@ -4,11 +4,17 @@
 📱 [(+49) 0179 4085327](tel:4901794085327)
 
 ## ℹ️ About Me
-I have worked in Android Development since 2014 and enjoy creating performant and beautiful Android apps that live in people's pockets.
+I have worked in Android Development since 2014, I have experience leading software developers since 2018, and I enjoy being part of the creation of beautiful  and performant apps that live in people's pockets.
 
-I currently work at [HSE](http://www.hse.de/) where I lead the stabilization and release of new features for the company's e-commerce / Live TV app.
+I currently work at [HSE](http://www.hse.de/) where I lead the mobile development teams working on the release of new features for the company's social commerce / e-commerce / Live TV apps.
 
-## 💻 Tech I use
+## 🤝 Leadership Skills
+* Communication of complex technical concepts to non-experts
+* Technical understanding of challenges and advantages of mobile app development
+* Inisder understanding of growth opportunities of mobile application development professionals
+* Knowledge of psychological and technical frameworks focused on leadership of multicultural teams
+
+## 💻 Technical Knowledge
 
 ### Languages:
 
@@ -62,11 +68,22 @@ MVVM is enforced by multi-module projects in tandem with unidirectional state fl
 
 ## 👨🏾‍💻 My impact on some apps
 
-### [HSE](https://play.google.com/store/apps/details?id=de.hse24)
+### HSE [Android](https://play.google.com/store/apps/details?id=de.hse24) [iOS](https://apps.apple.com/de/app/hse-here-shopping-entertains/id1016812570)
 
-**September 2019 - Present**
+**July 2024 - Present**
 
-* Lead the development team, discuss crucial product and architectural decisions, continuously refactored the code base to make the app comply with Modern Android Development (MAD) standards
+* Lead the Android and iOS development teams members from different cultural backgrounds
+* Empower developers to improve their technical and non-technical skills by checking in in their progress continuosly
+* Be a crucial point of contact between the company and the employees I lead, helping each side to effectively communicate
+* Create, modify and remove processes and documentation to improve the product development experience and efficiency
+* Develop technical and non-technical strategies with the leadership team to motivate our teams to perform beyond expectations
+* Explain complex mobile app technical concepts in terms non-experts can understand, to help them make decisions that shape the technical products we deliver
+* Provide technical expertise on the early stages of product management to easily understand risks and technical feasibility, helping decide where to better put our teams efforts
+
+**September 2019 - July 2024**
+
+* Discuss crucial product and architectural decisions
+* Continuously refactored the code base to make the app comply with Modern Android Development (MAD) standards
 * Helped develop the code styles used for the development of the app
 * Drove the improvement of ratings of the app (from 3.8 to 4.8 in a year and a half) by providing stability to the users by refactoring the old codebase
 * Improved the floor sales performance of the Android app, the app team, and the e-commerce team of HSE with new features and stability
@@ -174,6 +191,10 @@ MVVM is enforced by multi-module projects in tandem with unidirectional state fl
 * Created the usage tutorial of the prototype in Adobe Captivate.
 
 ## 👨🏾‍🎓 Education & Certificates
+
+### Haufe Akademie - [Essentials of Successful Leadership](https://badges.haufe-akademie.de/assertions/qsAevejTR1uoXRFKkRiM1A)
+*September 2024*
+<br/><img src="https://j1c1m1b1.github.io/images/essensials-of-successful-leadership.png" width="60">
 
 ### Google Developers - [Associate Android Developer](https://www.credential.net/3d4ec009-e28d-4b54-be84-8e24ee8d73b8#gs.s5onp7)
 
